@@ -2,6 +2,6 @@ Resolusiku
 - Memahami tentang web development
 - Membuat project sederhana 
 - Mendapatkan pekerjaan
-- Konsisten berolahraga
 - Konsisten beribadah
-
+- Konsisten belajar web development
+- Mempelajari bahasa pemrograman
